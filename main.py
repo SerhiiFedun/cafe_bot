@@ -8,7 +8,7 @@ from aiogram.exceptions import TelegramForbiddenError
 
 import asyncio
 
-API_TOKEN = '7770906929:AAFrZO1FcnFvqK2ulHncV13fmkxLIjYkHP8'
+API_TOKEN = 'YOUR_API_TOKEN_HERE'
 
 logging.basicConfig(level=logging.INFO)
 
